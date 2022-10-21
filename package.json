@@ -1,16 +1,16 @@
 {
-"name": "winsor888",
-"theme": "winsor888",
-"version": "3.7.8",
-"description": "winsor888 ทางเข้าเว็บบาคาร่าเว็บตรง คนเล่นเยอะ รับเงินเครดิตฟรี",
-"keywords": [
-"winsor888",
-"winsor888 เครดิตฟรี",
-"winsor888 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/winsor888",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "winsor888",
+  "theme": "winsor888",
+  "version": "3.8.0",
+  "description": "winsor888 ทางเข้าเว็บบาคาร่าเว็บตรง คนเล่นเยอะ รับเงินเครดิตฟรี",
+  "keywords": [
+    "winsor888",
+    "winsor888 เครดิตฟรี",
+    "winsor888 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/winsor888",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
